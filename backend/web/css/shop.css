@@ -1,0 +1,76 @@
+.main_title_wrapper {
+    padding-top: 3px;
+    height: 40px;
+}
+
+.main_title_wrapper h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    /*padding: 0;*/
+    float: left;
+    font-size: 22px;
+}
+
+.main_title_wrapper .action {
+    float: right;
+    margin: 0;
+}
+
+.btn {
+    padding: 3px 6px;
+}
+
+.word-btn {
+    margin-left: 15px;
+}
+
+.content_wrapper {
+    padding: 10px 20px 20px;
+    background-color: #fff;
+    border: 1px solid #eee;
+    border-bottom-color: #ccc;
+    border-radius: 6px;
+    box-shadow: 0 3px 15px #ccc;
+}
+
+.table th {
+    /*background-color: #f8f8f8;*/
+    background: #eee url('../image/btn_bg.gif') repeat-x 0 -60px;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #fff;
+}
+
+.table-striped > tbody > tr:nth-of-type(even) {
+    background-color: #fff;
+}
+
+.table tbody tr:hover {
+    background-color: #f8f8f8;
+}
+
+.dropdown-menu > .active > a {
+    color: #333;
+    background-color: #ddd;
+}
+
+.dropdown-menu > .active > a:hover {
+    color: #333;
+    background-color: #ddd;
+}
+
+.shop-form {
+    background-color: #f8f8f8;
+    padding: 20px 0 5px;
+    border-radius: 6px;
+}
+
+.form-div {
+    margin-bottom: 10px;
+    padding: 9px;
+    color: #555;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
